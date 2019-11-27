@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Abstract\" />
-    <Folder Include="Concrate\" />
+    <ProjectReference Include="..\Senkul.Core\Senkul.Core.csproj" />
+    <ProjectReference Include="..\Senkul.Database.Entities\Senkul.Database.Entities.csproj" />
   </ItemGroup>
 
 </Project>
