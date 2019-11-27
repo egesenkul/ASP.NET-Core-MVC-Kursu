@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senkul.Core", "Senkul.Core\Senkul.Core.csproj", "{30F4B89C-2DD2-4277-B706-264273120EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senkul.Database.Entities", "Senkul.Database.Entities\Senkul.Database.Entities.csproj", "{3235BF4C-0C6C-41E4-B74E-82B7E624A302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senkul.Database.DataAccess", "Senkul.Database.DataAccess\Senkul.Database.DataAccess.csproj", "{3C3C0E52-6BA3-48F7-BFED-81E510A7A78C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senkul.Database.Business", "Senkul.Database.Business\Senkul.Database.Business.csproj", "{91FA03A9-9624-4E12-A8EF-A0B43CFADEF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senkul.Database.MvcWebUI", "Senkul.Database.MvcWebUI\Senkul.Database.MvcWebUI.csproj", "{FE6C18DF-8EDD-4FE7-A2AF-95B51FECDD17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F4B89C-2DD2-4277-B706-264273120EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F4B89C-2DD2-4277-B706-264273120EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F4B89C-2DD2-4277-B706-264273120EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F4B89C-2DD2-4277-B706-264273120EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3235BF4C-0C6C-41E4-B74E-82B7E624A302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3235BF4C-0C6C-41E4-B74E-82B7E624A302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3235BF4C-0C6C-41E4-B74E-82B7E624A302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3235BF4C-0C6C-41E4-B74E-82B7E624A302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C3C0E52-6BA3-48F7-BFED-81E510A7A78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3C0E52-6BA3-48F7-BFED-81E510A7A78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3C0E52-6BA3-48F7-BFED-81E510A7A78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3C0E52-6BA3-48F7-BFED-81E510A7A78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FA03A9-9624-4E12-A8EF-A0B43CFADEF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FA03A9-9624-4E12-A8EF-A0B43CFADEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FA03A9-9624-4E12-A8EF-A0B43CFADEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FA03A9-9624-4E12-A8EF-A0B43CFADEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6C18DF-8EDD-4FE7-A2AF-95B51FECDD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6C18DF-8EDD-4FE7-A2AF-95B51FECDD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6C18DF-8EDD-4FE7-A2AF-95B51FECDD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6C18DF-8EDD-4FE7-A2AF-95B51FECDD17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB01F8FD-5DBA-4A0C-B287-893DC3F80813}
+	EndGlobalSection
+EndGlobal
